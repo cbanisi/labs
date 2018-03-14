@@ -1,4 +1,6 @@
 # Docker Tutorials and Labs
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcbanisi%2Flabs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcbanisi%2Flabs?ref=badge_shield)
+
 
 This repo contains [Docker](https://docker.com) labs and tutorials authored both by Docker, and by members of the community. We welcome contributions and want to grow the repo.
 
@@ -30,3 +32,7 @@ We want to see this repo grow, so if you have a tutorial to submit, or contribut
 
 [Guide to submitting your own tutorial](contribute.md)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcbanisi%2Flabs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcbanisi%2Flabs?ref=badge_large)
